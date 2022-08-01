@@ -1,0 +1,16 @@
+C:\Users\fvg\source\async_await\async_await\bin\Debug\async_await.exe.config
+C:\Users\fvg\source\async_await\async_await\bin\Debug\async_await.exe
+C:\Users\fvg\source\async_await\async_await\bin\Debug\async_await.pdb
+C:\Users\fvg\source\async_await\async_await\obj\Debug\async_await.csproj.AssemblyReference.cache
+C:\Users\fvg\source\async_await\async_await\obj\Debug\async_await.csproj.SuggestedBindingRedirects.cache
+C:\Users\fvg\source\async_await\async_await\obj\Debug\MainWindow.g.cs
+C:\Users\fvg\source\async_await\async_await\obj\Debug\App.g.cs
+C:\Users\fvg\source\async_await\async_await\obj\Debug\async_await_MarkupCompile.cache
+C:\Users\fvg\source\async_await\async_await\obj\Debug\async_await_MarkupCompile.lref
+C:\Users\fvg\source\async_await\async_await\obj\Debug\MainWindow.baml
+C:\Users\fvg\source\async_await\async_await\obj\Debug\async_await.g.resources
+C:\Users\fvg\source\async_await\async_await\obj\Debug\async_await.Properties.Resources.resources
+C:\Users\fvg\source\async_await\async_await\obj\Debug\async_await.csproj.GenerateResource.cache
+C:\Users\fvg\source\async_await\async_await\obj\Debug\async_await.csproj.CoreCompileInputs.cache
+C:\Users\fvg\source\async_await\async_await\obj\Debug\async_await.exe
+C:\Users\fvg\source\async_await\async_await\obj\Debug\async_await.pdb
